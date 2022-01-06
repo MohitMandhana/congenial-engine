@@ -1,1 +1,1 @@
-# congenial-engine
+**It is based on the menu-driven program for elementary database management.It employs all basic technique of file handling in C. Maintaining records on an excel sheet is quite the hassle which is very time consuming as well as a lengthy process.It employs all the basic technique of file handling in C.IT consists of following features- -Writing data in binary file. -Reading the data from binary file -Add and display records -Delete the record.**
